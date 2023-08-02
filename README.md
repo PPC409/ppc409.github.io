@@ -19,4 +19,4 @@ Ce site est statique et ne nécessite aucune installation. Vous pouvez accéder 
 N'hésitez pas à me contacter pour toute question ou opportunité de collaboration. Vous pouvez me joindre par email à [contact@ppc408.com](mailto:contact@ppc408.com).
 
 ## 🖼️ Aperçu du Site
-![Aperçu du Site](https://ppc408.com/images/preview)
+![Aperçu du Site](https://ppc408.com/images/preview.png)
